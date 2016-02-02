@@ -1,2 +1,2 @@
-# SimpleRepo
-Simple collaboration repo for testing slack integration
+# simple repository
+Testing slack integration with Github.
