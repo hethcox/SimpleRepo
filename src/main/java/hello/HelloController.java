@@ -3,6 +3,9 @@ package hello;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.RequestMapping;
 
+/**
+ * Simple Boot Controller
+ */
 @RestController
 public class HelloController {
 
@@ -12,4 +15,3 @@ public class HelloController {
     }
 
 }
-
